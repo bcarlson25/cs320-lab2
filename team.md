@@ -1,4 +1,5 @@
 Team Members:
 
 * Michael
-* Brandan 
+* Brandan
+* Ian
